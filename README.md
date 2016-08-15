@@ -2,9 +2,12 @@
 
 Requirement:
 
-Virtualbox 5.1.2
-Vagrant 1.8.5
+- Virtualbox 5.1.2
+
+- Vagrant 1.8.5
 
 在vagrant up之前需要翻墙安装插件`` vagrant plugin install vagrant-vbguest  ``
+
+box下载地址是 https://yun.baidu.com/s/1boS4WCB
 
 
